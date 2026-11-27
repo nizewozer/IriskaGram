@@ -1,0 +1,25 @@
+{
+  "defaultMonochrome": "@drawable/ic_monochrome",
+  "icons": [
+    {
+      "id": "default",
+      "resource": "ic_launcher",
+      "component": "DefaultIcon",
+      "titleRes": "AppIconDefault",
+      "descriptionRes": "AppIconDefaultInfo",
+      "foreground": "@mipmap/ic_launcher_foreground",
+      "background": "@color/ic_background",
+      "round": true,
+      "author": "IriskaGram"
+    },
+    {
+      "id": "cat_dark",
+      "titleRes": "AppIconBlack",
+      "descriptionRes": "AppIconBlackInfo",
+      "foreground": "@mipmap/ic_launcher_foreground",
+      "background": "#000000",
+      "round": true,
+      "author": "IriskaGram"
+    }
+  ]
+}
